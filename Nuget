@@ -1,0 +1,3 @@
+Install-Package Ardalis.GuardClauses -Version 3.3.0
+GuardClauseExtensions nuget
+https://github.com/SaiRanjithRajagopal/pluralsight-ddd-fundamentals/blob/main/FrontDesk/src/FrontDesk.Core/ScheduleAggregate/Appointment.cs
